@@ -1,0 +1,50 @@
+DT(HĐ):
+  DT(HĐ)\đn:
+    DT(HĐ)\đn\vt: Ommatius,100,,,spatulatus,100,,,là,100,,,một,100,,,loài,100,,,ruồi,100,,,trong,100,,,họ,100,,,Asilidae.,100,,,Ommatius,100,,,spatulatus,100,,,được,100,,,Curran,100,,,miêu,100,,,tả,100,,,năm,100,,,1928.,100
+    DT(HĐ)\đn\in: Ommatius spatulatus
+    DT(HĐ)\đn\tr: ,100
+    DT(HĐ)\đn\sa: là,100
+  DT(HĐ)\vd:
+    DT(HĐ)\vd\vt:
+    DT(HĐ)\vd\in:
+    DT(HĐ)\vd\tr:
+    DT(HĐ)\vd\sa:
+  DT(HĐ)\ha:
+    DT(HĐ)\ha\vt:
+    DT(HĐ)\ha\in:
+    DT(HĐ)\ha\tr:
+    DT(HĐ)\ha\sa:
+  DT(HĐ)\cl:
+    DT(HĐ)\cl\vt:
+    DT(HĐ)\cl\in:
+    DT(HĐ)\cl\tr:
+    DT(HĐ)\cl\sa:
+  DT(HĐ)\w:
+    DT(HĐ)\w\vt:
+    DT(HĐ)\w\in:
+    DT(HĐ)\w\tr:
+    DT(HĐ)\w\sa:
+  DT(HĐ)\tp(nl):
+    DT(HĐ)\tp(nl)\vt:
+    DT(HĐ)\tp(nl)\in:
+    DT(HĐ)\tp(nl)\tr:
+    DT(HĐ)\tp(nl)\sa:
+  DT(HĐ)\tđ:
+    DT(HĐ)\tđ\vt:
+    DT(HĐ)\tđ\in:
+    DT(HĐ)\tđ\tr:
+    DT(HĐ)\tđ\sa:
+  DT(HĐ)\td:
+    DT(HĐ)\td\vt:
+    DT(HĐ)\td\in:
+    DT(HĐ)\td\tr:
+    DT(HĐ)\td\sa:
+SV:
+  SV\vid:
+  SV\ha:
+  SV\tt:
+  SV\gt:
+CT:
+  CT\lg:
+  CT\vid:
+  CT\ha:
